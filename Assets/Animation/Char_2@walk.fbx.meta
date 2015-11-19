@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 79dc0ed3a7485e543a482a0a0679e870
-timeCreated: 1447898778
+guid: 265c028a855645640b0dc73a8c99821b
+timeCreated: 1447909250
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -58,7 +58,7 @@ ModelImporter:
     2300000: mixamo:Character_2_geometry1
     3300000: mixamo:Character_2_geometry1
     4300000: mixamo:Character_2_geometry1
-    7400000: fall
+    7400000: mixamo.com
     9500000: //RootNode
     11100000: //RootNode
   materials:
@@ -80,83 +80,7 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: fall
-      takeName: mixamo.com
-      firstFrame: 0
-      lastFrame: 75
-      wrapMode: 1
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask:
-      - path: 
-        weight: 1
-      - path: mixamo:Character_2_geometry1
-        weight: 1
-      - path: Root2
-        weight: 1
-      - path: Root2/l_hip
-        weight: 1
-      - path: Root2/l_hip/l_knee
-        weight: 1
-      - path: Root2/l_hip/l_knee/l_foot
-        weight: 1
-      - path: Root2/l_hip/l_knee/l_foot/l_toe
-        weight: 1
-      - path: Root2/r_hip
-        weight: 1
-      - path: Root2/r_hip/r_knee
-        weight: 1
-      - path: Root2/r_hip/r_knee/r_foot
-        weight: 1
-      - path: Root2/r_hip/r_knee/r_foot/r_toe
-        weight: 1
-      - path: Root2/Spine
-        weight: 1
-      - path: Root2/Spine/Chest
-        weight: 1
-      - path: Root2/Spine/Chest/l_clavicle
-        weight: 1
-      - path: Root2/Spine/Chest/l_clavicle/l_shoulder
-        weight: 1
-      - path: Root2/Spine/Chest/l_clavicle/l_shoulder/l_elbow
-        weight: 1
-      - path: Root2/Spine/Chest/l_clavicle/l_shoulder/l_elbow/l_wrist
-        weight: 1
-      - path: Root2/Spine/Chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_hand
-        weight: 1
-      - path: Root2/Spine/Chest/Neck
-        weight: 1
-      - path: Root2/Spine/Chest/Neck/Head
-        weight: 1
-      - path: Root2/Spine/Chest/r_clavicle
-        weight: 1
-      - path: Root2/Spine/Chest/r_clavicle/r_shoulder
-        weight: 1
-      - path: Root2/Spine/Chest/r_clavicle/r_shoulder/r_elbow
-        weight: 1
-      - path: Root2/Spine/Chest/r_clavicle/r_shoulder/r_elbow/r_wrist
-        weight: 1
-      - path: Root2/Spine/Chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_hand
-        weight: 1
-      maskType: 0
-      maskSource: {instanceID: 0}
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -181,7 +105,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 1
   importAnimation: 1
-  copyAvatar: 1
+  copyAvatar: 0
   humanDescription:
     human: []
     skeleton: []
