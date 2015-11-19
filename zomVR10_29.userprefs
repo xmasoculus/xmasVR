@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\menuSelect.js">
+    <Files>
+      <File FileName="Assets\zombieTarget.cs" Line="34" Column="36" />
+      <File FileName="Assets\Scripts\projectileScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\zombieDestroy.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\menuSelect.js" Line="3" Column="42" />
+      <File FileName="Assets\loadLose.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\zombieSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\winScript.js" Line="1" Column="1" />
+      <File FileName="Assets\destroy.js" Line="1" Column="1" />
+      <File FileName="Assets\playerLose.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

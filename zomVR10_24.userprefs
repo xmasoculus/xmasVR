@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/zombieDestroy.js">
+    <Files>
+      <File FileName="Assets/Scripts/projectileScript.cs" Line="29" Column="21" />
+      <File FileName="Assets/Scripts/weaponScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/zombieDestroy.js" Line="12" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
